@@ -1,7 +1,11 @@
 # 💫 About Me:
 Frontend developer
 
-Experience web developer adept in all stages of advance web development.Knoweledegble in user interface , testing and debugging process.
+As a highly detail-oriented, organized, and meticulous employee, I thrive in fast-paced environments and excel at meeting tight deadlines. I am also an enthusiastic team player who is always ready to contribute to the success of the company.
+
+My technical skills include proficiency in Java, HTML, CSS, JavaScript, React, Node.js, MongoDB, Express, and data structures and algorithms.
+
+Since April 2022, I have been working as a Full Stack Web Developer at Masai School in Bangalore, where I have gained hands-on experience in building web applications using various programming languages and frameworks.
 
 
 # 💻 Tech Stack:
