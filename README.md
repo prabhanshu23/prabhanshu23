@@ -5,7 +5,7 @@ As a highly detail-oriented, organized, and meticulous employee, I thrive in fas
 
 My technical skills include proficiency in Java, HTML, CSS, JavaScript, React, Node.js, MongoDB, Express, and data structures and algorithms.
 
-Since April 2022, I have been working as a Full Stack Web Developer at Masai School in Bangalore, where I have gained hands-on experience in building web applications using various programming languages and frameworks.
+Since April 2022, I have been learning  a Full Stack Web Development  at Masai School in Bangalore, where I have gained hands-on experience in building web applications using various programming languages and frameworks.
 
 
 # 💻 Tech Stack:
